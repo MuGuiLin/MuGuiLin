@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=muguilin&show_icons=true&icon_color=ff01bd&text_color=718096&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=muguilin&show_icons=true&icon_color=ff01bd&text_color=718096&hide_title=true" />
 
 
 
